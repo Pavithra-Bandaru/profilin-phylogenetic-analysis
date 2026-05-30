@@ -74,6 +74,7 @@ Profilin proteins clustered largely according to taxonomic relationships.
 * Fungal profilins clustered together.
 * Amoebozoan profilins formed distinct evolutionary groups.
 * The observed topology supports diversification of profilin paralogs throughout eukaryotic evolution.
+
 ## Repository Structure
 
 ```text
@@ -84,6 +85,7 @@ Profilin_Phylogeny/
 ├── SCRIPTS/       # Analysis scripts (if applicable)
 └── README.md      # Workflow documentation
 ```
+
 ## Reproducibility
 
 1. Retrieve reviewed profilin sequences from UniProtKB.
